@@ -7,39 +7,3 @@
 body{font-family:"Lato", sans-serif;}
 
 .bg-purple{background-color: #8e00a3;}
-
-.headerWrapper .top-strip{padding:5px 0px ;}
-
-.headerWrapper .top-strip p{color: #fff;}
-
-.headerWrapper .header{width: 100%;height: auto;padding: 5px 0px;}
-
-.logoWrapper img{width:150px;margin-top: 0%;}
-.part2 {height:60px ;}
-.headerWrapper .header .part2 .countryDrop{width: 170px;height: 50px;min-width: 170px;
-    color: #000;border:1px solid rgba(0,0,0,.2) !important;border-radius: 7px !important;padding: 10px 15x;margin: 10px;}
-
-.headerWrapper .header .part2 .countryDrop{text-align: left;justify-content:space-between;}
-
-.headerWrapper .header .part2 .countryDrop .label{font-size: 12px !important;text-transform: capitalize !important;
-color: rgba(0,0,0,0.5) !important;line-height: 16px;}
-
-.headerWrapper .header .part2 .countryDrop .name{font-size: 14px !important;text-transform: capitalize !important;
-color:rgba(0,0,0,0.7) !important;font-weight: 700;line-height: 16px;}
-
-header .headerSearch{width: 60%;height: 50px;background-color: #f3f4f7;padding: 10px;position: relative;border-radius: 10px;
-
-border:1px solid rgba(0,0,0,0.1)}
-header .headerSearch input{background-color: transparent;outline:none;font-size:14px;border: 0px;padding: 10px 20px;}
-
-header .headerSearch button{position: absolute;top: 15px;right: 15px;z-index: 100;min-width: 40px !important;height: 20px
-!important;width: 40px !important;border-radius: 50%;font-size: 25px;}
-
-header .part3 .circle{align-items: center;justify-content: center;min-width: 45px !important
-;height: 45px !important;width: 45px !important;border-radius: 50%;border:1px solid rgba(0,0,0,0.1);color:#000;
-font-size: 22px;margin: 5px;}
-
-.cartTab .price{font-size: 700;}
-
-.cartTab .count{position: absolute;top:-3px;right:-1px;background-color: #ea2b0f;border-radius: 50%;color:
-#fff;width: 17px;height: 25px;}
